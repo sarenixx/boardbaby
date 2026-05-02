@@ -1,0 +1,91 @@
+{
+  "mode": "live",
+  "primary_slides_parsed": 3,
+  "context_slides_parsed": 36,
+  "primary_slides_in_prompt": 3,
+  "context_slides_in_prompt": 6,
+  "primary_material_path": "/workspaces/boardbaby/260420 AVP Weekly Update_v1.pdf",
+  "primary_material_type": "pdf",
+  "context_material_path": "/workspaces/boardbaby/Headspace - Board Meeting - Feb 10th, 2026.pdf",
+  "context_material_type": "pdf",
+  "factor_4_name": "GAAP EBITDA, ADJ.",
+  "factor_5_name": "ENDING CASH BALANCE",
+  "model": "gpt-4.1-mini",
+  "relevance": {
+    "selected_slides": [
+      {
+        "slide_number": 1,
+        "title": "CONFIDENTIAL 6",
+        "reason": "Detailed 4Q25 and FY25 financial summary including bookings, revenue performance, gross margin, EBITDA, and leadership changes relevant to company strategy."
+      },
+      {
+        "slide_number": 6,
+        "title": "Exec Summary",
+        "reason": "Executive summary highlighting full year 2025 financial results, EBITDA improvement, forecast for 2026, and cash/liquidity position."
+      }
+    ],
+    "selection_summary": "The company reported flat bookings and declined revenue in 4Q25 with a breakeven EBITDA, while FY25 showed a 5% revenue shortfall but better-than-expected gross margin and positive EBITDA driven by cost actions. Leadership reshaped strategy to target sustained profitability. The 2025 full-year results underscore a significant EBITDA improvement with positive free cash flow for the first time, while 2026 is projected with a slight revenue decline offset by expense control maintaining near-term profitability."
+  },
+  "metrics": {
+    "metrics": [
+      {
+        "name": "Revenue",
+        "latest_value": "FY25 $216.3MM",
+        "trend": "down",
+        "notable": "Revenue declined 6% year-over-year in 4Q25 and the full year 2025 revenue was 5% below budget."
+      },
+      {
+        "name": "Gross Margin",
+        "latest_value": "FY25 73.6%",
+        "trend": "flat",
+        "notable": "Gross Margin slightly exceeded budget (73.6% vs 73.0%) and was stable despite revenue challenges."
+      },
+      {
+        "name": "Margin",
+        "latest_value": "4Q25 Gross Margin 74.6%",
+        "trend": "flat",
+        "notable": "Gross Margin outperformed budget in 4Q25 at 74.6% amid revenue weakness."
+      },
+      {
+        "name": "GAAP EBITDA, ADJ.",
+        "latest_value": "FY25 Adj. EBITDA $10.8MM",
+        "trend": "up",
+        "notable": "Adj. EBITDA beat forecast by 50% and improved $25M YoY; company achieved positive Adj. EBITDA and positive unlevered free cash flow for first time."
+      },
+      {
+        "name": "ENDING CASH BALANCE",
+        "latest_value": "Cash $1.4M higher than forecast",
+        "trend": "up",
+        "notable": "Cash was stronger than forecast due to Adj. EBITDA beat and an additional $10M Oxford line drawn in December 2025."
+      }
+    ],
+    "overall_metric_takeaway": "The company faced top-line revenue declines and missed budget targets but maintained strong gross margins and achieved historic profitability with positive adjusted EBITDA and cash flow in FY25. Cost controls and leadership changes helped offset revenue softness, improving liquidity and EBITDA substantially."
+  },
+  "context": {
+    "key_drivers": [
+      "Flat 4Q25 bookings due to dependency on few large contracts with unpredictable sales cycles",
+      "Decline in product utilization by health plans and soft new business in Employer and Partnership segments",
+      "Delay in upsales and higher churn in enterprise customers",
+      "Slower growth in direct-to-consumer therapy offering"
+    ],
+    "strategic_updates": [
+      "Leadership overhaul with seven of ten executive roles replaced under new CEO Tom Pickett",
+      "Shift toward sustained profitability with focus on cost control and gross margin improvement",
+      "Integration strategy development for Headspace and Ginger combination to capture industrial logic"
+    ],
+    "major_wins": [
+      "Achieved positive adjusted EBITDA of $10.8M for full year 2025, beating forecast by 50%",
+      "Maintained gross margin above target at 74.6% in 4Q25 and 73.6% for full year despite revenue shortfall",
+      "Strong expense management resulted in EBITDA outperforming budget ($10.9M vs $6.7M budget)"
+    ],
+    "major_risks": [
+      "Continued struggle to re-ignite revenue growth amidst churn and low utilization in core business areas",
+      "Increasing interest costs from $77MM debt burden challenging financial flexibility",
+      "Revenue forecast decline for 2026 with projected 8% YoY decrease and slightly lower EBITDA"
+    ],
+    "management_tone": "Cautiously optimistic with focus on profitability and cost discipline, tempered by concern over revenue growth challenges",
+    "context_takeaway": "The company made significant leadership and strategic changes to drive profitability and stabilize operations, but remains challenged by inconsistent revenue growth and growing debt costs as it forecasts a modest decline in top-line for 2026."
+  },
+  "final_paragraph": "In FY25, the company reported $216.3 million in revenue, down 5% versus budget and reflecting a 6% decline in 4Q25, while maintaining a strong gross margin of 73.6% for the year and 74.6% in the fourth quarter. Adjusted EBITDA was $10.8 million, beating forecasts by 50% and marking significant improvement with positive free cash flow achieved for the first time. The ending cash balance exceeded expectations by $1.4 million, supported by the EBITDA outperformance and an additional $10 million drawn from a credit line in December. Performance was driven by flat bookings, revenue softness linked to churn and reduced utilization, and slower growth in key segments, offset by aggressive cost control and leadership changes, including executive turnover to focus on sustained profitability. Going forward, the strategy centers on integrating recent acquisitions and maintaining expense discipline amid anticipated modest revenue declines and increased debt-related financial pressures in 2026.",
+  "final_word_count": 0
+}
